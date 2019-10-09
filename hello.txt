@@ -8,3 +8,9 @@ class student:
      
     def add(self,x,y):
         return x+y
+
+class Teacher:
+   def __init__(self):
+     pass
+
+

@@ -1,1 +1,6 @@
-hello world!
+#hello world!
+#你好Django!
+#hello Python!
+class student:
+    def __init__(self,name):
+       self.name = name 
